@@ -1,6 +1,6 @@
 # Example Consumer
 
-This project demonstrates how to consume the rslib-project-example component library.
+This project demonstrates how to consume the react-component-with-rslib component library.
 
 ## Setup
 
@@ -14,6 +14,6 @@ npm run dev
 
 ## Features
 
-- Uses the Button and Input components from rslib-project-example
+- Uses the Button and Input components from react-component-with-rslib
 - Simple form with validation
 - Demonstrates component styling and props

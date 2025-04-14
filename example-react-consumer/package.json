@@ -11,7 +11,7 @@
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "rslib-project-example": "file:../lib"
+    "react-component-with-rslib": "file:../lib"
   },
   "devDependencies": {
     "@types/react": "^19.1.0",

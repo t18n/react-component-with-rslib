@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Button, Input } from 'rslib-project-example'
+import { Button, Input } from "react-component-with-rslib";
 import './App.css'
 
 function App() {

@@ -14,7 +14,7 @@ importers:
       react-dom:
         specifier: ^19.1.0
         version: 19.1.0(react@19.1.0)
-      rslib-project-example:
+      react-component-with-rslib:
         specifier: file:../lib
         version: file:../lib(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
     devDependencies:
@@ -504,7 +504,7 @@ packages:
     engines: {node: '>=18.0.0', npm: '>=8.0.0'}
     hasBin: true
 
-  rslib-project-example@file:../lib:
+  react-component-with-rslib@file:../lib:
     resolution: {directory: ../lib, type: directory}
     peerDependencies:
       react: '>=16.9.0'
@@ -984,7 +984,7 @@ snapshots:
       '@rollup/rollup-win32-x64-msvc': 4.40.0
       fsevents: 2.3.3
 
-  rslib-project-example@file:../lib(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
+  react-component-with-rslib@file:../lib(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
     dependencies:
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)

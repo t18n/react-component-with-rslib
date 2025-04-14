@@ -1,4 +1,4 @@
-# rslib-project-example
+# react-component-with-rslib
 > [!IMPORTANT] This project is a test project to use Rslib to demonstrate the output of the library. Don't use in production.
 
 Creating a good React component library is notoriously challenging. Most out-of-the-box solutions bundle all styles into a single `style.css` file, which creates inherent problems:

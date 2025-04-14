@@ -12,7 +12,7 @@
     "next": "15.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "rslib-project-example": "file:../lib"
+    "react-component-with-rslib": "file:../lib"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",

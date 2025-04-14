@@ -1,5 +1,5 @@
 import styles from "./page.module.css";
-import { Button, Input } from "rslib-project-example";
+import { Button, Input } from "react-component-with-rslib";
 
 export default function Home() {
   return (

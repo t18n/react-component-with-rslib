@@ -17,7 +17,7 @@ importers:
       react-dom:
         specifier: ^19.0.0
         version: 19.1.0(react@19.1.0)
-      rslib-project-example:
+      react-component-with-rslib:
         specifier: file:../lib
         version: file:../lib(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
     devDependencies:
@@ -1306,7 +1306,7 @@ packages:
     resolution: {integrity: sha512-g6QUff04oZpHs0eG5p83rFLhHeV00ug/Yf9nZM6fLeUrPguBTkTQOdpAWWspMh55TZfVQDPaN3NQJfbVRAxdIw==}
     engines: {iojs: '>=1.0.0', node: '>=0.10.0'}
 
-  rslib-project-example@file:../lib:
+  react-component-with-rslib@file:../lib:
     resolution: {directory: ../lib, type: directory}
     peerDependencies:
       react: '>=16.9.0'
@@ -2947,7 +2947,7 @@ snapshots:
 
   reusify@1.1.0: {}
 
-  rslib-project-example@file:../lib(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
+  react-component-with-rslib@file:../lib(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
     dependencies:
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
