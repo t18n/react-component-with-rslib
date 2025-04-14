@@ -1,0 +1,44 @@
+.input {
+  font-family: inherit;
+  padding: 10px 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  outline: none;
+  transition: border-color 0.2s;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.input:focus {
+  border-color: #1ea7fd;
+}
+
+.input--small {
+  font-size: 12px;
+  padding: 8px 12px;
+}
+
+.input--medium {
+  font-size: 14px;
+  padding: 10px 16px;
+}
+
+.input--large {
+  font-size: 16px;
+  padding: 12px 20px;
+}
+
+.input--error {
+  border-color: #e53935;
+}
+
+.label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.container {
+  margin-bottom: 16px;
+}
