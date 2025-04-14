@@ -1,3 +1,5 @@
+'use client';
+
 import './button.css';
 
 interface ButtonProps {
