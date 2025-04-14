@@ -11,8 +11,8 @@
   "dependencies": {
     "next": "15.3.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-component-with-rslib": "file:../lib"
+    "react-component-with-rslib": "file:../lib",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",

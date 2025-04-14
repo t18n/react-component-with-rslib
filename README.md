@@ -1,5 +1,7 @@
-# react-component-with-rslib
-> [!IMPORTANT] This project is a test project to use Rslib to demonstrate the output of the library. Don't use in production.
+# React UI Component Library with Rslib 
+
+> [!IMPORTANT]
+> This project is a test project to use Rslib to demonstrate the output of the library. Don't use in production.
 
 Creating a good React component library is notoriously challenging. Most out-of-the-box solutions bundle all styles into a single `style.css` file, which creates inherent problems:
 
@@ -20,7 +22,8 @@ I'm genuinely impressed by Rslib. Its minimal configuration delivers exactly wha
 - [x] Code-spliting
 - [x] Support non-scoped CSS import
 - [x] Support CSS-modules import
-- [ ] Support Tailwind
+- [x] Support Tailwind
+    - Tested with DaisyUI, work on Storybook, Nextjs but not on the React consumer. On the React consumer, seems like the styles are not loaded.
 - [ ] Support global styles
 - [ ] Support CSS variables
 - [x] Support persisting React directive
