@@ -45,7 +45,7 @@
     "postcss": "^8.5.3",
     "prettier": "^3.5.3",
     "react": "^19.1.0",
-    "storybook": "^8.6.12",
+    "storybook": "^8.6.15",
     "storybook-addon-rslib": "^1.0.1",
     "storybook-react-rsbuild": "^1.0.1",
     "tailwindcss": "^4.1.4",
